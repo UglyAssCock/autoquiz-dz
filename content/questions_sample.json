@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "questions": [
+    {
+      "id": 28,
+      "categoryId": "speed_limits",
+      "difficulty": "medium",
+      "questionAr": "ما هي السرعة القصوى القانونية داخل التجمعات السكانية في الجزائر أثناء هطول المطر؟",
+      "questionFr": "Quelle est la vitesse maximale en agglomération en Algérie par temps de pluie ?",
+      "optionAAr": "30 كلم/سا",
+      "optionBAr": "40 كلم/سا",
+      "optionCAr": "50 كلم/سا",
+      "optionDAr": "60 كلم/سا",
+      "optionAFr": "30 km/h",
+      "optionBFr": "40 km/h",
+      "optionCFr": "50 km/h",
+      "optionDFr": "60 km/h",
+      "correctIndex": 1,
+      "explanationAr": "طبقاً للمرسوم التنفيذي 04-381، تُخفّض السرعة القصوى داخل التجمعات السكانية من 50 إلى 40 كلم/سا عند المطر.",
+      "explanationFr": "Selon le décret 04-381, la limite en agglomération passe de 50 à 40 km/h par temps de pluie.",
+      "signCode": null,
+      "isOfficialVerified": false
+    }
+  ],
+  "roadSigns": []
+}
